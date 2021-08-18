@@ -17,11 +17,18 @@
 
 Se debe crear un repositorio tanto para actividades como para proyecto el cual será tomado como calificación así como las actividades.
 
+### Actividades
 Las actividades deben subirse en un repo, cada actividad es una carpeta nueva en tú repo de actividades.
 
 `(primer apellido y  primer letra segundo apellido)-actividades`
 
-Se debe tener una notación en la cual se denote 3 partes
+### Proyecto final
+
+```
+(primer apellido y  primer letra segundo apellido)-pyf-prisma
+```
+
+en caso de requir otro repo en la organización se debe tener una notación en la cual se denote 3 partes
 * Proyecto al cual se pertenece (tllr)
 * Ambito
 * tecnologia principal
@@ -35,6 +42,9 @@ el cual quedaria como
 ```
 tllr-api-prisma
 ```
+
+# Importante
+Puntos importantes para trabajar los proyectos.
 ## Manejo de ramas
 
 Este debe ser con el flujo de trabajo git-flow, se deja una pequeña referencia [aquí](https://www.atlassian.com/es/git/tutorials/comparing-workflows/gitflow-workflow)
