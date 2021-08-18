@@ -14,6 +14,13 @@
     * MongoDB
 
 ## Creación de repositorio 
+
+Se debe crear un repositorio tanto para actividades como para proyecto el cual será tomado como calificación así como las actividades.
+
+Las actividades deben subirse en un repo, cada actividad es una carpeta nueva en tú repo de actividades.
+
+`(primer apellido y  primer letra segundo apellido)-actividades`
+
 Se debe tener una notación en la cual se denote 3 partes
 * Proyecto al cual se pertenece (tllr)
 * Ambito
